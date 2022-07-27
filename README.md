@@ -18,7 +18,6 @@ This will print out a table with dummy info. You can use the manual constructor 
 TTable table = new TTable("-", "+", "|", true, false, "none");
 ```
 
-<br>
 to allow for more customisation.
 <br>
 There are also templates such as 'time', 'list' and 'data'
