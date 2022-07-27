@@ -6,12 +6,12 @@
 </h2></div>
 <br>
 
-Usage: <br>
+Usage: <br/>
 ```java
 TTable table = new TTable();
 table.print();
 ```
-<br>
+<br/>
 This will print out a table with dummy info. You can use the manual constructor like:<br>
 
 ```java
@@ -19,12 +19,12 @@ TTable table = new TTable("-", "+", "|", true, false, "none");
 ```
 
 to allow for more customisation.
-<br>
+<br/><br/>
 There are also templates such as 'time', 'list' and 'data'
 
 ```java
 TTable table = new TTable("-", "+", "|", true, false, "time");
 ```
 
-<br>
+<br/>
 They provide a scaffolding for your table based on your specific needs.
