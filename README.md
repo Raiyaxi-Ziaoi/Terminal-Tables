@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/lRzzpEU.png"></img>
 
-# Raiyaxi App
+# Terminal Tables
 <div align="center"><h2><br/><br/>
  A library for tables in the terminal in Java<br/><br/>Made by Raiyaxi Ziaoi
 </h2></div>
