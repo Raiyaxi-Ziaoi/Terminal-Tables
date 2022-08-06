@@ -11,7 +11,7 @@ public class Desk {
 
     private List<String[]> rows = new ArrayList<>();
 
-    public TTable(String hSep, String vSep, String jSep, boolean showVert, boolean setRAli, String template) { // Constructor for table
+    public Desk(String hSep, String vSep, String jSep, boolean showVert, boolean setRAli, String template) { // Constructor for table
     	setShowVerticalLines(showVert, vSep, jSep); // Sets vertical lines
     	setHorizontalSeperator(hSep); // Sets horizontal lines
     	setRightAlign(setRAli); // Sets right align
