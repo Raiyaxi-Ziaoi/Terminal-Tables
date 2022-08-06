@@ -42,13 +42,13 @@ public class Desk {
     	}
     }
 
-    public TTable(String hSep, String vSep, String jSep, boolean showVert, boolean setRAli) {  // Templateless constructor
+    public Desk(String hSep, String vSep, String jSep, boolean showVert, boolean setRAli) {  // Templateless constructor
     	setShowVerticalLines(showVert, vSep, jSep);
     	setHorizontalSeperator(hSep);
     	setRightAlign(setRAli);
     }
 
-    public TTable() { // General table
+    public Desk() { // General table
     	setShowVerticalLines(true, "|", "+");
     	setHorizontalSeperator("-");
     	setRightAlign(false);
