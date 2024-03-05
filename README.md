@@ -3,7 +3,7 @@
 # Desk
 
 <div align="center"><h2><br/><br/>
- A library for tables in the terminal in Java<br/><br/>Made by Raiyaxi Ziaoi
+ A library for tables in the terminal in Java<br/><br/>Made by Abu Hurayrah
 </h2></div>
 <br>
 
